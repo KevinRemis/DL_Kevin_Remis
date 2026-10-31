@@ -1,7 +1,7 @@
-# Trabajo Práctico N° 1 - Aprendizaje Profundo **Alumno:** [Tu Nombre y Apellido]
-**Materia:** Inteligencia Artificial / Aprendizaje Profundo **Fecha:** [Fecha de entrega] --
+# Trabajo Práctico N° 1 - Aprendizaje Profundo **Alumno:** [Kevin Remis]
+**Materia:** Inteligencia Artificial / Aprendizaje Profundo **Fecha:** [31/10/2026] --
 - ## 📁 Contenido del Repositorio Este repositorio contiene la entrega del primer trabajo
-práctico introductorio: - `TP1_Nombre_Apellido.ipynb`: Cuaderno de Google Colab con
+práctico introductorio: - `TP1_Kevin_Remis.ipynb`: Cuaderno de Google Colab con
 ejercicios de presupuesto personal, condicionales `if/else`, cálculo de aumentos con bucles
 `for` y resolución del desafío práctico. --- ## 💡 Conceptos Aprendidos en esta Práctica 1.
 **Variables:** Guardar datos en nombres representativos (`ingreso_mensual`, `comida`). 2.
